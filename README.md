@@ -1,4 +1,4 @@
-# NextLevel Food
+# Simple Todo List
 
 "Simple TodoList" is a straightforward task management app that allows users to easily create, view, update, and delete tasks. With a clean and intuitive design, it helps users stay organized and focused on their daily to-dos without unnecessary distractions.
 
