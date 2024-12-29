@@ -33,7 +33,7 @@ https://simple-tod0.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/tiedsandi/simple-todo
+  git clone https://github.com/tiedsandi/project_simple-todo
 ```
 
 Go to the project directory
